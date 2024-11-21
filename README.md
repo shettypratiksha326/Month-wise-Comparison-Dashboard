@@ -1,1 +1,2 @@
 # Month-wise-Comparison-Dashboard
+Developed an interactive Month-wise Comparison Dashboard in Power BI, highlighting key metrics such as revenue, expenses, and growth across different months. The dashboard features trend analysis with line charts, month-over-month performance comparisons using bar charts, and visualizations of key indicators like profit margins and sales volume. This tool enables users to quickly identify seasonal patterns, track progress, and make data-driven decisions for future planning.
